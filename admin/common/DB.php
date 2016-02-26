@@ -4,7 +4,7 @@ class DB {
 
     const DB_HOST = '127.0.0.1:3306';
     const DB_USERNAME = 'root';
-    const DB_PASSWORD = 'hangar13';
+    const DB_PASSWORD = '';
     const DB_NAME     = 'project';
 
     private $connection;
